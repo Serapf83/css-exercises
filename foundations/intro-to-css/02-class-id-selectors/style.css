@@ -1,0 +1,20 @@
+.redP{
+    background-color: #fca5a5;
+    font-size: 20px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#idOne {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#idTwo {
+    background-color: #72f889;
+    font-weight: bold;
+}
+
